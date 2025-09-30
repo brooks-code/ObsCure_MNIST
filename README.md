@@ -73,8 +73,7 @@ python3 ObsCure_MNIST.py
 | **SAVE_PREFIX** | f"mnist_seed{SEED}" → "mnist_seed42" | Prefix used when saving models/checkpoints/outputs. |
 | **NUM_WORKERS** | 4 | Number of subprocesses for data loading (DataLoader num_workers). |
 
->[!IMPORTANT]
->Hyperparameter optimization achieved with [Optuna](optuna.org).
+> Hyperparameter optimization achieved with [Optuna](optuna.org).
 
 </details>
 
@@ -96,7 +95,13 @@ val acc 99.7800
 ```
 
 >[!NOTE]
->Ranked 12th (top 5 best scores) on Kaggle MNIST leaderbord with a **99.9%** accuracy with the platform's validation dataset.
+>Ranked 7th (top 4 best scores)/1000+ submissions on the Kaggle MNIST leaderbord with a **99.94%** accuracy on the platform's validation dataset.
+
+
+<details>
+<summary>Details - click to expand</summary>
+  ![Kaggle expert Image](</img/kaggle_rank.png> "ObsCure_MNIST kaggle leaderboard.")
+</details>
 
 ## License
 
