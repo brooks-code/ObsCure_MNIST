@@ -100,7 +100,9 @@ val acc 99.7800
 
 <details>
 <summary>Details - click to expand</summary>
+  
   ![Kaggle expert Image](</img/kaggle_rank.png> "ObsCure_MNIST kaggle leaderboard.")
+  
 </details>
 
 ## License
