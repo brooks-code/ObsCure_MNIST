@@ -10,7 +10,7 @@
 # =============================================================================
 """ Experimenting with MNIST. Nothing exotic, just playing with useful, perhaps
  a tad underused techniques.
-Ranked 12th on Kaggle (99.9% accuracy - within top 5 scores, densely ranked).
+Ranked 7th on Kaggle (99.94% accuracy - within top 4 scores, densely ranked).
 
 Training script for a compact WideSmallResNet on MNIST with GhostBatchNorm,
 MixUp/CutMix augmentation, Lookahead optimizer wrapper and SWA support.
